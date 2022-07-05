@@ -1,5 +1,6 @@
 # HealthCareData_Entities_Identification
-> ‘BeHealthy’, a health tech company, aims to connect the medical communities with millions of patients across the country.
+> 
+‘BeHealthy’, a health tech company, aims to connect the medical communities with millions of patients across the country.
 
 ‘BeHealthy’ has a web platform that allows doctors to list their services and manage patient interactions and provides services for patients such as booking interactions with doctors and ordering medicines online. Here, doctors can easily organise appointments, track past medical records and provide e-prescriptions. So, ‘BeHealthy’ are providing medical services, prescriptions and online consultations and generating huge data day by day. 
 
@@ -82,6 +83,7 @@ These labels correspond to each word that is available in the ‘train_sent’ a
 ## Conclusions
 - The entire model is based on semantic processing.
 - Top 25 NOUN or PROPN PoS (Part Of Speech) tags are:
+
 [('patients', 492),
  ('treatment', 281),
  ('%', 247),
